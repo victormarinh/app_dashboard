@@ -16,7 +16,7 @@ App Dashboard é um simples projeto onde prático requisições Ajax com jQuery.
 		- É preciso importar o arquivo ./app/app_dashboard.php no seu Banco de Dados Mysql(De preferência pelo phpmyadmin);
 	-Segundo:
 		- Configurar o Acesso da aplicação com o Banco de Dados, no arquivo app/Conexao.php;
-  -Terceiro
-    - Copiar o arquivos do projeto para o pasta htdocs do seu Xampp.
+  	-Terceiro
+    		- Copiar o arquivos do projeto para o pasta htdocs do seu Xampp;
 	-Quarto:
-		- Ligar servidor do Xampp ou Wampp, acessar o localhost:80 no seu navegador e pronto.
+		- Ligar servidor do Xampp ou Wampp, acessar o localhost:80 no seu navegador e pronto;
